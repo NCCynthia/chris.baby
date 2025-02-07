@@ -1,0 +1,18 @@
+*{padding:0px ;
+    box-sizing: border-box;
+    margin: 0px;
+}
+
+#div1{
+    border: 10px solid hotpink;
+     border-radius: 20px;
+     border: 100px 500px;
+     position: fixed;
+     font-family:cursive; 
+}
+@media screen and{ {max-width:500px}
+
+}
+
+
+
